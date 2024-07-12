@@ -1,0 +1,25 @@
+King County, Washington is the home of Seattle, a major metropolitan center in the United States. The dataset included various attributes of homes including square footage, number of bathrooms, and grade and using these, the target variable, the price of homes was predicted. Numerous visualizations were utilized to analyze the data to better understand what moves home prices where they are located. Regression models were then constructed and compared to assess which performed the best on conventional metrics to estimate home prices.
+
+Description of Data Set
+King County is the most populous center in the state of Washington with a population of 1,931,249 people and 789,232 households according to the 2010 US Census. The data set is a sample of 21,597 homes in King County with the following 21 attributes:
+•	Identification notation for a house (int64)
+•	Date house was sold (object)
+•	Price of house (float64)
+•	Number of bedrooms (int64)
+•	Number of bathrooms (float64)
+•	Square footage of house (int64)
+•	Square footage of lot (int64)
+•	Total floors of house (float64)
+•	If house has view to a waterfront (int64)
+•	If a house has been viewed (int64)
+•	Condition of house (int64)
+•	Grade of house (int64)
+•	Square footage of house apart from basement (int64)
+•	Square footage of the basement (int64)
+•	Year built(int64)
+•	Year renovated (int64)
+•	Zip code (int64)
+•	Latitude (float64)
+•	Longitude (float64)
+•	Living area in 2015 (int64)
+•	Lot area in 2015 (int64)
